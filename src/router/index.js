@@ -34,11 +34,7 @@ const routes = [{
         name: 'RegistroUsuarios',
         component: RegistroUsuarios
     },
-    {
-        path: '/usuarioslistado',
-        name: 'UsuariosListado',
-        component: UsuariosListado
-    },
+
 ]
 
 const router = new VueRouter({
