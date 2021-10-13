@@ -5,7 +5,7 @@ import Dashboard from '../views/Dashboard.vue'
 import Login from '../views/Login.vue'
 import RegistroProyectos from '../views/RegistroProyectos.vue'
 import RegistroUsuarios from '../views/RegistroUsuarios.vue'
-import UsuariosListado from '../views/UsuariosListado.vue'
+
 
 Vue.use(VueRouter)
 
